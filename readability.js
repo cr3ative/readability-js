@@ -359,7 +359,7 @@ var readability = {
         "<div id='rdb-footer-print'>Excerpted from <cite>" + document.title + "</cite><br />" + window.location.href + "</div>",
         "<div id='rdb-footer-wrapper'>",
              "<div id='rdb-footer-left'>",
-                 "<span id='readability-attribution'>based on <a href='http://lab.arc90.com/experiments/readability'>An Arc90 Laboratory Experiment</a></span>",
+                 "<span id='readability-attribution'><a href='http://lab.arc90.com/experiments/readability'>An Arc90 Laboratory Experiment</a></span>",
              "</div>",
              "<div id='rdb-footer-right'>",
                  "<span class='version'>Readability version " + readability.version + "</span>",
